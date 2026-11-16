@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Building top-tier Artificial Intelligence agent systems together.
+
 > TODO...
 
 <!--
